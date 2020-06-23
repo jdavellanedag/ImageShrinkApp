@@ -1,0 +1,24 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "App to optimaze images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdavellanedag/ImageShrinkApp.git"
+  },
+  "author": "Julian Avellaneda -> Brad Traversy Course",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdavellanedag/ImageShrinkApp/issues"
+  },
+  "homepage": "https://github.com/jdavellanedag/ImageShrinkApp#readme",
+  "devDependencies": {
+    "electron": "^9.0.5",
+    "nodemon": "^2.0.4"
+  }
+}
