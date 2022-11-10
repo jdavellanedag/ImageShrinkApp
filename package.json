@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/jdavellanedag/ImageShrinkApp#readme",
   "devDependencies": {
-    "electron": "^9.0.5",
+    "electron": "^18.3.7",
     "electron-packager": "^14.2.1",
     "nodemon": "^2.0.4"
   },
